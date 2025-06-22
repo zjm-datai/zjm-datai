@@ -1,40 +1,40 @@
-# 👋 你好，我是 Jim Zhu
+---
+<h1 align="center">👋 Hi, I'm Jim Zhu</h1>
+<p align="center">
+  🎓 Math → 💼 AI Agent Developer | Python · FastAPI · Vue3 · LangChain
+</p>
 
-🎓 数学系出身，热爱思考与探索
+<p align="center">
+  <a href="https://app.commanddash.io/agent?github/zjm-datai">
+    <img src="https://img.shields.io/badge/AI‑Code‑Assist‑EB9FDA" alt="AI Code Assist">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=zjm-datai&show_icons=true&theme=radical" />
+</p>
 
-💼 目前专注于 **AI Agent 应用开发**，致力于构建高效、智能的多轮交互系统
+---
+## 👨‍💻 Tech & Tools
+**Languages**: Python, Java, JavaScript  
+**Frameworks**: FastAPI, Vue3, Tailwind CSS, Spring  
+**AI Stack**: LangChain, vLLM, InternLM, LangGraph  
+**Experiments**: Multi-Agent, Semantic Search, Interactive Dialog Flows  
 
-🌱 正在学习和使用：**LangChain, vLLM, InternLM**
+---
+## 🌱 Currently Learning
+LangChain advanced flows · InternLM fine‑tuning · vLLM distributed serving  
 
-🧠 熟悉技术栈：**Python, FastAPI, Vue3, LangGraph**
+---
+## 🎯 Projects & Demos
+- **AgentFlow** – A LangGraph‑powered interactive CV builder using agent orchestration  
+- **QueryAgent** – 实现 upload PDF → semantic Q/A + agent-driven reasoning  
+- **RockBandBot** – 基于语音 + LLM 的吉他调音与伴奏 Agent  
 
-🥋 业余爱好包括：**UFC 格斗、摇滚乐队（尤其喜欢吉他演奏）**
+---
+## 🎸 Off-Duty
+UFC 🥋 · Rock guitar riffs & band jam sessions  
 
 ---
 
-## 💬 你可以问我关于：
-
-* 🧠 大语言模型应用开发
-* ⚙️ 后端开发（Python / FastAPI / Java / Spring）
-* 🔗 LangChain / LangGraph 构建智能对话系统
-* 🖥️ 前端开发（Vue3 + Tailwind CSS）
-
----
-
-## 🚀 项目兴趣方向
-
-* 多智能体系统（Multi-Agent Systems）
-* 语义搜索与向量数据库
-* 自定义对话流程图（LangGraph / State Machines）
-* AI 应用的工程化部署与优化
-
----
-
-## 📊 GitHub 统计数据
-
-![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjm-datai\&show_icons=true\&theme=radical)
-
----
-
-如果你也对这些方向感兴趣，欢迎交流！🤝
-热爱探索未知，用代码点亮灵感✨
+<div align="center">
+  <p>✨ Thanks for stopping by — let’s build intelligent, multi-agent systems together!</p>
+  <p>If you're exploring in similar directions, feel free to reach out. 🤝</p>
+</div>
