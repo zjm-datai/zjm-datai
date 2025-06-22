@@ -1,9 +1,13 @@
 # 👋 你好，我是 Jim Zhu
 
 🎓 数学系出身，热爱思考与探索
+
 💼 目前专注于 **AI Agent 应用开发**，致力于构建高效、智能的多轮交互系统
+
 🌱 正在学习和使用：**LangChain, vLLM, InternLM**
+
 🧠 熟悉技术栈：**Python, FastAPI, Vue3, LangGraph**
+
 🥋 业余爱好包括：**UFC 格斗、摇滚乐队（尤其喜欢吉他演奏）**
 
 ---
