@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://app.commanddash.io/agent?github/zjm-datai">
-    <img src="https://img.shields.io/badge/AI‑Code‑Assist‑EB9FDA" alt="AI Code Assist">
-  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=zjm-datai&show_icons=true&theme=radical" />
 </p>
 
