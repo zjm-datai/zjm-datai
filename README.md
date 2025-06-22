@@ -21,9 +21,8 @@ LangChain advanced flows · InternLM fine‑tuning · vLLM distributed serving
 
 ---
 ## 🎯 Projects & Demos
-- **AgentFlow** – A LangGraph‑powered interactive CV builder using agent orchestration  
-- **QueryAgent** – 实现 upload PDF → semantic Q/A + agent-driven reasoning  
-- **RockBandBot** – 基于语音 + LLM 的吉他调音与伴奏 Agent  
+
+
 
 ---
 ## 🎸 Off-Duty
