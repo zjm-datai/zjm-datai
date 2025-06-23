@@ -1,4 +1,3 @@
----
 <h1 align="center">👋 Hi, I'm Jim Zhu</h1>
 <p align="center">
   🎓 Math → 💼 AI Agent Developer | Python · FastAPI · Vue3 · LangChain
